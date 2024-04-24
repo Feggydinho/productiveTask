@@ -1,0 +1,9 @@
+.subscriber-table {
+    margin-top: 1rem;
+}
+
+.pagination-controls {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0;
+}
